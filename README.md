@@ -1,1 +1,1 @@
-# wallstreetbets_sec_scraper
+# reddit_sec_scraper
